@@ -32,4 +32,4 @@ steps to create the executable file.
 An executable file of the desired name will be created at the location of the .c file.
 
 ----------------------------------------------------------------------------------------------------
-Contact us at anshumandubey2k18@gmail.com for any further queries.
+Contact me at anshumandubey2k18@gmail.com for any further queries.
